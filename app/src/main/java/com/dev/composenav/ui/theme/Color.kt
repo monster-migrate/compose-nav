@@ -1,0 +1,36 @@
+package com.dev.composenav.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val DarkNight         = Color(0xFF0D0D0D)
+val MintLeaf          = Color(0xFF49D199)
+val MidnightBlue      = Color(0xFF242833)
+val LavenderMist      = Color(0xFFAA9BD2)
+val AshGrey           = Color(0xFF666666)
+val CrimsonBlush      = Color(0xFFB24F58)
+val SunsetOrange      = Color(0xFFCB7F5B)
+val AquaGlow          = Color(0xFF41FFBB)
+val EmeraldWave       = Color(0xFF2DAE77)
+val LightSilver       = Color(0xFFB3B3B3)
+val GraphiteShadow    = Color(0xFF656565)
+val SilverMist        = Color(0xFFE6E6E6)
+val SlateBlue         = Color(0xFF3E414D)
+val SteelGrey         = Color(0xFF808080)
+val SoftSky           = Color(0xFF90A6BA)
+
+val PureWhite         = Color(0xFFFFFFFF)
+val LeafGreen         = Color(0xFF35CC8C)
+val SnowWhite         = Color(0xFFFFFFFF)
+val CloudGrey         = Color(0xFFD9D9D9)
+val RoseBloom         = Color(0xFFE56571)
+val Sunbeam           = Color(0xFFFFA072)
+val LightAqua         = Color(0xFF59FFC4)
+
+val DeepMidnight      = Color(0xFF0D1220)
+val FrostedGrey       = Color(0xFFF7F7F7)
+val MistyGreen        = Color(0xFFDBFBED)
+val PureCinder        = Color(0xFFCCCCCC)
+val Charcoal          = Color(0xFF808080)
+val SilverCloud       = Color(0xFFBFBFBF)
+val MistyGreenLight   = Color(0xFFDBFBED)
+val MintFog           = Color(0XFFE6FFE6)
