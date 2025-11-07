@@ -29,7 +29,6 @@ fun SplashScreen(
     onSplashEnd: () -> Unit,
     modifier: Modifier = Modifier,
 ) {
-    val isFirstTimeVisit = remember { isFirstTimeVisit() }
     val animatedSize = remember { Animatable(96f) }
     val animatedTilt = remember { Animatable(0f) }
     val animatedAlpha = remember { Animatable(1f) }

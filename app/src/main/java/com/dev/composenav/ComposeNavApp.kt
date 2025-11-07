@@ -11,7 +11,7 @@ import com.dev.composenav.components.ui.SplashScreen
 @Composable
 fun ComposeNavApp() {
     var isSplashinTime by remember { mutableStateOf(true) }
-    if (!isSplashinTime) {
+    if (isSplashinTime) {
         SplashScreen(onSplashEnd = { isSplashinTime = false })
     } else {
         Landing()
